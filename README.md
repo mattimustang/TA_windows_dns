@@ -8,7 +8,6 @@ Example input configuration:
 
     [monitor://C:\dns\dns.txt]
     disabled = false
-    index = windns
     sourcetype = windows:dns
     # crcSalt required if you are monitoring the file directly on the DNS server
     # as it rotates the log.
