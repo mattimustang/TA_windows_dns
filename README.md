@@ -1,7 +1,7 @@
 A Windows DNS debug log Technology Add-on for Splunk that complies with the
 Splunk Common Information Model.
 
-To ensure the extractions and `eventtypes work make sure you set the `sourcetype` to `windows:dns`.
+To ensure the extractions and `eventtypes` work make sure you set the `sourcetype` to `windows:dns`.
 
 
 Example input configuration:
